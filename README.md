@@ -1,4 +1,4 @@
-# 📰 Fake News Detection using Passive Aggressive Classifier
+# Fake News Detection using Passive Aggressive Classifier
 
 A machine learning project that classifies news articles as real or fake using TF-IDF vectorization and a Passive Aggressive Classifier, achieving ~99.5% accuracy.
 
